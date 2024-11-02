@@ -1,0 +1,103 @@
+Jason Jasiel Quist
++233 53 241 9012, jasonquist.ssh@gmail.com, Github, LinkedIn
+PROFILE SUMMARY
+
+AI Researcher and Python Software Engineer for 5+ years, focused on practical impactful solutions and continuous technological advancement as a thought leader. Driven by Curiosity, Passion striving to push the boundaries of deep learning and reinforcement learning. I am open-minded, teachable, adaptable to industry trends and readily prepared to relocate for any opportunities that demand keen engagement and someone to bring new ideas to the team.
+
+
+PROFESSIONAL EXPERIENCE
+
+University of Ghana
+Artificial Intelligence Researcher
+Ghana
+Jun 2024 - Present
+
+Co-founded a new focused research lab at the university of Ghana to scale our Gait Analysis research.
+• Computer Vision Research for Surveillance.
+Deep Learning Researcher (Computer Vision)
+Feb 2024 - Present
+
+• Conducting deep learning research in computer vision, establishing a GAIT analysis framework for security applications, utilized by multiple industry partners.
+• Developing advanced deep learning models for image analysis, achieving a 93.42% improvement in model accuracy over existing benchmarks.
+• Processing and managing extensive 2D and 3D datasets, enhancing neural network training efficiency by 92%.
+• Innovating CNN architectures, which enhanced image classification accuracy by 87.74% and pattern recognition speed by 73.68%. Accurately identifying subjects in impossible situations where there are up to 80% occlusions. 
+• Collaborating with over 10 academic and industry leaders to adapt deep learning research for practical security solutions.
+
+CodSoft
+Artificial Intelligence Engineer Intern
+India
+Dec 2023 - Mar 2024
+
+• Developed a general-purpose chatbot that processes user queries, analyzes context, and provides accurate responses, reducing average response time by 6 hours.
+• Implemented a facial recognition algorithm with a 95% accuracy rate to scan and identify authorized personnel, preventing unauthorized access on company facilities.
+• Enhanced user experience of a personalized recommendation system, resulting in a 30% rise in user engagement and a 15% increase in sales conversions.
+• Developed an image captioning algorithm that provides clear, descriptive captions, resulting in enhanced website accessibility for visually impaired users.
+
+OMAC Synergy Africa
+South Africa
+Software Engineer
+Sep 2022 - Dec 2022
+
+• Lead as a Software Engineer, ensuring optimal website performance and enhancing client engagement through strategic design and functionality improvements.
+
+• Leveraged team collaboration to conduct thorough testing and refinement of responsiveness website design, achieving a 30% increase in mobile user engagement
+• Spearheaded multi-department coordination to identify key features, security, and coding requirements, resulting in a 20% boost in website functionality and user experience.
+
+The Prairie Concept
+            Accra, Ghana
+Software Engineer
+    Jul 2022 - Sep 2022
+
+• Debugged and optimized the full website stack, yielding a 48% increase in customer conversion rates.
+• Redesigned the website interface, achieving a 23% increase in user engagement metrics.
+• Managed domain names and server hosting, maintaining uninterrupted website functionality.
+• Delivered project milestones and updates on schedule, ensuring adherence to deadlines and maintaining project timelines.
+
+2Pi Real Intelligence
+Accra, Ghana
+Research Software Engineer Intern
+Jan 2022 - June 2022
+
+• Co-spearheaded successful and innovative projects, leveraging advanced technical and collaborative problem-solving skills resulting in an annual turnover of $1.2M for a client.
+• Deployed an HR system for a client, streamlining their employee management processes, resulting in a 60% improvement in organizational efficiency and HR operations.
+• Improved functionality and optimized operational speed of a Point of Sale system, yielding a 237% increase in payment processing time.
+• Leveraged collaborative teamwork and effective communication, resulting in a 40% increase in company's overall internal productivity, yielding sales exceeding 500%.
+
+
+Freelance
+Accra, Ghana
+Software Engineer
+Feb 2019 - Mar 2022
+
+• Developed responsive websites and e-commerce platforms for clients, boosting user engagement and sales by 40%.
+• Automated backend data processing with Python, saving clients an average of 15 hours of manual work weekly.
+• Provided ongoing technical support and maintenance, ensuring 90% uptime for client applications.
+• Implemented RESTful APIs for backend data management, enhancing system reliability and reducing response time by 50%.
+
+EDUCATION & CERTIFICATIONS
+ALX - Holberton School
+Computer Software Engineering and Applied Artificial Intelligence
+  Graduation: Mar 2024
+
+
+
+TECHNICAL PROFICIENCIES
+Python, Bash, JavaScript, C, C++, HTML5, CSS3, Flask, PyTorch, SciKit-Learn, NumPy, Keras, SpaCy, jQuery, AJAX, MongoDB, Redis, MySQL, SQL, PostgreSQL, Git, Github, Docker, GCP, AWS, Nginx, Linux, Windows, Ubuntu server, RESTful API, IntelliJ, EMACS, Vim, VSCode, Jupyter, OpenAI, LLMOps, GPU Acceleration
+
+
+VOLUNTEERING EXPERIENCE & ACHIEVEMENT
+CTVET
+Jul 2024 - present
+
+• Handpicked to design Ghana's first tertiary AI curriculum, impacting future generations of AI talent.
+  Deep Learning IndabaX Ghana								      Dec 2023 - present
+• Leading and organizing engaging AI workshops, hackathons, and conferences, while also mentoring and supporting aspiring AI/ML enthusiasts and researchers.
+• Advocating for AI through hands-on involvement in health AI research, content creation, and promoting the mission and objectives of Deep Learning IndabaX Ghana to a broader audience.
+• Volunteered as a Research Engineer to develop a framework to safely augment health data with 90%+ accuracy and reliability, solving the issue of data scarcity on the African continent.
+  Google Developers Group Accra								      Oct 2022 - present
+• Public Speaker on Software Engineering, Artificial Intelligence, Deep Learning and Reinforcement Learning.
+• Conducting practical AI and Python tutorials with Google's #BuildWithAI initiative at the Google Office & universities.
+
+
+HOBBIES
+Reading Research Papers and articles, Tech Conferences, Coaching and Mentoring, Hackathons, Practical Tutorials, Talks
