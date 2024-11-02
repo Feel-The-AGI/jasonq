@@ -1,17 +1,15 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
+  "description": "Personal Portfolio",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "eleventy --serve",
-    "build": "eleventy"
+    "build": "eleventy",
+    "serve": "eleventy --serve"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
-  "devDependencies": {
-    "@11ty/eleventy": "^3.0.0"
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "markdown-it": "^13.0.1",
+    "markdown-it-attrs": "^4.2.0"
   }
 }
