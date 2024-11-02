@@ -51,7 +51,6 @@ title: Jason Quist - AI Researcher & Software Engineer
                     <li>Collaborating with over 10 academic and industry leaders to adapt deep learning research for practical security solutions.</li>
                 </ul>
             </div>
-
             <!-- CodSoft -->
             <div class="card" data-aos="fade-left">
                 <div class="card-header">
@@ -67,7 +66,6 @@ title: Jason Quist - AI Researcher & Software Engineer
                     <li>Developed an image captioning algorithm that provides clear, descriptive captions, resulting in enhanced website accessibility for visually impaired users.</li>
                 </ul>
             </div>
-
             <!-- OMAC Synergy Africa -->
             <div class="card" data-aos="fade-right">
                 <div class="card-header">
@@ -82,7 +80,6 @@ title: Jason Quist - AI Researcher & Software Engineer
                     <li>Spearheaded multi-department coordination to identify key features, security, and coding requirements, resulting in a 20% boost in website functionality and user experience.</li>
                 </ul>
             </div>
-
             <!-- The Prairie Concept -->
             <div class="card" data-aos="fade-left">
                 <div class="card-header">
@@ -98,7 +95,6 @@ title: Jason Quist - AI Researcher & Software Engineer
                     <li>Delivered project milestones and updates on schedule, ensuring adherence to deadlines and maintaining project timelines.</li>
                 </ul>
             </div>
-
             <!-- 2Pi Real Intelligence -->
             <div class="card" data-aos="fade-right">
                 <div class="card-header">
@@ -114,7 +110,6 @@ title: Jason Quist - AI Researcher & Software Engineer
                     <li>Leveraged collaborative teamwork and effective communication, resulting in a 40% increase in company's overall internal productivity, yielding sales exceeding 500%.</li>
                 </ul>
             </div>
-
             <!-- Freelance -->
             <div class="card" data-aos="fade-left">
                 <div class="card-header">

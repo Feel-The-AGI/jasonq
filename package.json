@@ -4,9 +4,9 @@
   "description": "Personal Portfolio",
   "main": "index.js",
   "scripts": {
-    "start": "eleventy --serve",
+    "start": "eleventy --serve --watch",
     "build": "eleventy",
-    "serve": "eleventy --serve"
+    "serve": "eleventy --serve --watch"
   },
   "dependencies": {
     "@11ty/eleventy": "^2.0.1",
